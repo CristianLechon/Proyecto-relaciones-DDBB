@@ -19,7 +19,8 @@ import java.util.Set;
  *
  * @author Cristian Lechon.
  * Titulo: Proyecto relaciones DDBB.
- *
+ * Porfavor cambia la base de datos, el Usuario y contraseña
+ * desde el archivo application.properties.
  *
  */
 
